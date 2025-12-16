@@ -209,3 +209,19 @@ footer {
   color: #666;
   padding: 8px 0;
 }
+
+.participant-delete {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+
+.participant-delete:hover {
+  color: #b71c1c;
+  background: rgba(198, 40, 40, 0.06);
+} 
